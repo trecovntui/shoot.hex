@@ -1,3 +1,8 @@
+## Linux ##
+
+Dependencies:
+Install "libncurses-dev".
+
 Build:
 Just run "make".
 
